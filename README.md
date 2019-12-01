@@ -3,6 +3,6 @@
 ### Machine Learning
 
 ### Deep Learning
-* [BasicNN.py](DL/BasicNN.py)
+* [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
 
 ## Reference
