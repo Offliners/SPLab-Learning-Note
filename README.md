@@ -21,4 +21,7 @@
 |Pillow|`5.4.1`|
 |tensorflow-gpu|`1.14.0`|
 
+Computer
+
+GPU :  `GeForce GTX 1050`
 ## Reference
