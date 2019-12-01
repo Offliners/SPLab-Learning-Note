@@ -6,6 +6,7 @@
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
 
 ## Environment
+#### Python Module
 |Module|Version|
 |-|-|
 |Python-64-bits|`3.6.8`|
@@ -21,7 +22,7 @@
 |Pillow|`5.4.1`|
 |tensorflow-gpu|`1.14.0`|
 
-Computer
+#### Computer
 
 GPU :  `GeForce GTX 1050`
 ## Reference
