@@ -3,6 +3,8 @@
 ### Machine Learning
 * [Preprocessing-data.py](ML/Preprocessing-data.py)
 * [Labels-encoder.py](ML/Labels-encoder.py)
+* [Logistic-regression-classifier.py](ML/Logistic-regression-classifier.py)
+#### Package
 * [utilities.py](ML/utilities.py)
 ### Deep Learning
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
