@@ -23,8 +23,11 @@
 |Pillow|`5.4.1`|
 |tensorflow-gpu|`1.14.0`|
 
-#### Hardware
+## IDE 
+ * Visual stdio code : https://code.visualstudio.com/download
+ * Anaconda : https://www.anaconda.com/distribution/
 
+#### Hardware
 GPU :  `GeForce GTX 1050`
 ## Reference
 * Textbook
