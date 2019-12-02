@@ -31,4 +31,5 @@ GPU :  `GeForce GTX 1050`
   - Artificial-Intelligence-with-Python (ISBN13 : `9781786464392`)
   - Deep Learning with Python (ISBN13 : `9781617294433`)
 * Video
-  - NTU HY Lee Machine Learning on Youtube (Link : https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
+  - NTU HY Lee Machine Learning on Youtube 
+    (Link : https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
