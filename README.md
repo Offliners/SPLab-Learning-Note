@@ -6,23 +6,6 @@
 ### Deep Learning
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
 
-## FAQ 
-* 1.How to download modules?
-
-   Open your cmd, and then input `pip install (module_name)`
-
-* 2.How to check version of modules?
-
-   Open your cmd，and then input `pip list`
-   
-* 3.How to upgrate the module?
-
-   Open your cmd，and then input `pip install -U (module_name)` or `pip install --upgrate (module_name)`
-   
-* 4.How to delete the module installed?
-
-   Open your cmd, and then input `pip uninstall (module_name)`
-
 ## Environment
 #### Python Module
 |Module|Version|
@@ -46,6 +29,24 @@
 
 #### Hardware
 GPU :  `GeForce GTX 1050`
+
+## FAQ 
+* 1.How to download modules?
+
+   Open your cmd, and then input `pip install (module_name)`
+
+* 2.How to check version of modules?
+
+   Open your cmd，and then input `pip list`
+   
+* 3.How to upgrate the module?
+
+   Open your cmd，and then input `pip install -U (module_name)` or `pip install --upgrate (module_name)`
+   
+* 4.How to delete the module installed?
+
+   Open your cmd, and then input `pip uninstall (module_name)`
+
 ## Reference
 * Textbook
   - Artificial-Intelligence-with-Python (ISBN13 : `9781786464392`)
