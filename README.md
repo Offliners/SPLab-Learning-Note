@@ -2,6 +2,7 @@
 
 ### Machine Learning
 * [Preprocessing-data.py](ML/Preprocessing-data.py)
+* [Labels-encoder.py](ML/Labels-encoder.py)
 ### Deep Learning
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
 
