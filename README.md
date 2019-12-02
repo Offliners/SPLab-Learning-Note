@@ -30,3 +30,5 @@ GPU :  `GeForce GTX 1050`
 * Textbook
   - Artificial-Intelligence-with-Python
   - Deep Learning with Python
+* Video
+  - NTU HY Lee Machine Learning on Youtube
