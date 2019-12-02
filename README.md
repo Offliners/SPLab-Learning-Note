@@ -1,4 +1,4 @@
-# SPLab-Learning-Map
+# SPLab Learning Note
 
 ### Machine Learning
 * [Preprocessing-data.py](ML/Preprocessing-data.py)
