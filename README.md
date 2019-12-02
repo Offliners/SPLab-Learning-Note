@@ -27,3 +27,6 @@
 
 GPU :  `GeForce GTX 1050`
 ## Reference
+* Textbook
+  - Artificial-Intelligence-with-Python
+  - Deep Learning with Python
