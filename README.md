@@ -4,6 +4,8 @@
 * [Preprocessing-data.py](ML/Preprocessing-data.py)
 * [Labels-encoder.py](ML/Labels-encoder.py)
 * [Logistic-regression-classifier.py](ML/Logistic-regression-classifier.py)
+* [Naive-bayes-classifier.py](ML/Naive-bayes-classifier.py)
+* [Confusion-matrix.py](ML/Confusion-matrix.py)
 #### Package
 * [utilities.py](ML/utilities.py)
 ### Deep Learning
