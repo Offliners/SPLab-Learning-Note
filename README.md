@@ -1,5 +1,4 @@
 # SPLab Learning Note
-
 ### Machine Learning
 * [Preprocessing-data.py](ML/Preprocessing-data.py)
 * [Labels-encoder.py](ML/Labels-encoder.py)
@@ -7,7 +6,9 @@
 * [Naive-bayes-classifier.py](ML/Naive-bayes-classifier.py)
 * [Confusion-matrix.py](ML/Confusion-matrix.py)
 #### Package
-* [utilities.py](ML/utilities.py)
+* [utilities.py](ML/Package/utilities.py)
+#### Data
+* [data_multivar_nb.txt](ML/Data/data_multivar_nb.txt)
 ### Deep Learning
 #### Keras
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
