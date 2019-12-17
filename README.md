@@ -33,7 +33,7 @@
  * Visual stdio code : https://code.visualstudio.com/download
  * Anaconda : https://www.anaconda.com/distribution/
 
-#### Hardware
+## Hardware
 GPU :  `GeForce GTX 1050`
 
 ## FAQ 
