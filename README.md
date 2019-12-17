@@ -8,7 +8,7 @@
 #### Package
 * [utilities.py](ML/Package/utilities.py)
 #### Data
-* [data_multivar_nb.txt](ML/Data/data_multivar_nb.txt)
+* [data_multivar_nb.txt](ML/data/data_multivar_nb.txt)
 ### Deep Learning
 #### Keras
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
