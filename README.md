@@ -13,8 +13,7 @@
 #### Keras
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
 
-## Environment
-#### Python Module
+## Python Module Version
 |Module|Version|
 |-|-|
 |Python-64-bits|`3.6.8`|
