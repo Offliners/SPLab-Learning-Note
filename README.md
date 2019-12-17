@@ -55,10 +55,10 @@ GPU :  `GeForce GTX 1050`
    Open your cmd, and then input `pip uninstall (module_name)`
 
 ## Reference
-* Textbook
+* Textbook(Code)
   - Artificial-Intelligence-with-Python (ISBN13 : `9781786464392`)
   - Deep Learning with Python (ISBN13 : `9781617294433`)
-* Video
+* Video(Theory)
   - NTU HY Lee Machine Learning on Youtube 
   
     (Link : https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
