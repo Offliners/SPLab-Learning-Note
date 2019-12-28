@@ -1,4 +1,4 @@
-# Chapter 2 : Classification and Regression Using Supervised Learning
+## Chapter 2 : Classification and Regression Using Supervised Learning
 * [Preprocessing-data.py](ML/Preprocessing-data.py)
 * [Labels-encoder.py](ML/Labels-encoder.py)
 * [Logistic-regression-classifier.py](ML/Logistic-regression-classifier.py)
