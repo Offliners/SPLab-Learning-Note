@@ -8,6 +8,7 @@
 * [Support-vector-machine.py](ML/Support-vector-machine.py)
 * [Single-variable-regressor.py](ML/Single-variable-regressor.py)
 * [Multivariable-regressor.py](ML/Multivariable-regressor.py)
+* [Estimating-housing-prices-using-support-vector-regressor.py](ML/Estimating-housing-prices-using-support-vector-regressor.py)
 #### Package
 * [utilities.py](ML/Package/utilities.py)
 #### Data
