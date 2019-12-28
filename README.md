@@ -7,6 +7,7 @@
 * [Confusion-matrix.py](ML/Confusion-matrix.py)
 * [Support-vector-machine.py](ML/Support-vector-machine.py)
 * [Single-variable-regressor.py](ML/Single-variable-regressor.py)
+* [Multivariable-regressor.py](ML/Multivariable-regressor.py)
 #### Package
 * [utilities.py](ML/Package/utilities.py)
 #### Data
