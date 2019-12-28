@@ -6,6 +6,7 @@
 * [Naive-bayes-classifier.py](ML/Naive-bayes-classifier.py)
 * [Confusion-matrix.py](ML/Confusion-matrix.py)
 * [Support-vector-machine.py](ML/Support-vector-machine.py)
+* [Single-variable-regressor.py](ML/Single-variable-regressor.py)
 #### Package
 * [utilities.py](ML/Package/utilities.py)
 #### Data
