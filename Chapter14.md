@@ -2,4 +2,4 @@
 * [Perceptron-based-classifier.py](ML/Perceptron-based-classifier.py)
 
 ### Data
-* [data_perceptron.txt](data/data_perceptron.txt)
+* [data_perceptron.txt](ML/data/data_perceptron.txt)
