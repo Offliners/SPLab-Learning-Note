@@ -5,6 +5,7 @@
 * [Logistic-regression-classifier.py](ML/Logistic-regression-classifier.py)
 * [Naive-bayes-classifier.py](ML/Naive-bayes-classifier.py)
 * [Confusion-matrix.py](ML/Confusion-matrix.py)
+* [Support-vector-machine.py](ML/Support-vector-machine.py)
 #### Package
 * [utilities.py](ML/Package/utilities.py)
 #### Data
