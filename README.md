@@ -62,7 +62,7 @@ GPU :  `GeForce GTX 1050`
 ## Reference
 * Textbook(Code)
   - Artificial-Intelligence-with-Python (ISBN13 : `9781786464392`)
-  --github : https://github.com/PacktPublishing/Artificial-Intelligence-with-Python
+    -github : https://github.com/PacktPublishing/Artificial-Intelligence-with-Python
   - Deep Learning with Python (ISBN13 : `9781617294433`)
 * Video(Theory)
   - NTU HY Lee Machine Learning on Youtube 
