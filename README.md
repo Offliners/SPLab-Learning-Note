@@ -1,5 +1,7 @@
 # SPLab Learning Note
-### Machine Learning
+## Machine Learning
+
+### Chapter 2 : Classification and Regression Using Supervised Learning
 * [Preprocessing-data.py](ML/Preprocessing-data.py)
 * [Labels-encoder.py](ML/Labels-encoder.py)
 * [Logistic-regression-classifier.py](ML/Logistic-regression-classifier.py)
@@ -16,6 +18,8 @@
 * [income_data.txt](ML/data/income_data.txt)
 * [data_singlevar_regr.txt](ML/data/data_singlevar_regr.txt)
 * [data_multivar_regr.txt](ML/data/data_multivar_regr.txt)
+
+### Chapter 14 : Artificial Neural Networks
 ### Deep Learning
 #### Keras
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
