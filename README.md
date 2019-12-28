@@ -1,9 +1,7 @@
 # SPLab Learning Note
 ## Machine Learning
 * [Chapter 2 : Classification and Regression Using Supervised Learning](Chapter2.md)
-
-
-### Chapter 14 : Artificial Neural Networks
+* [Chapter 14 : Artificial Neural Networks](Chapter14.md)
 ## Deep Learning
 ### Keras
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
