@@ -12,6 +12,7 @@
 #### Data
 * [data_multivar_nb.txt](ML/data/data_multivar_nb.txt)
 * [income_data.txt](ML/data/income_data.txt)
+* [data_singlevar_regr.txt](ML/data/data_singlevar_regr.txt)
 ### Deep Learning
 #### Keras
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
