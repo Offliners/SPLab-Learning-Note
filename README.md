@@ -23,6 +23,7 @@
 |Seaborn|`0.9.0`|
 |Pillow|`5.4.1`|
 |tensorflow-gpu|`1.14.0`|
+|neurolab|`0.3.5`|
 
 ## IDE 
  * Visual stdio code : https://code.visualstudio.com/download
