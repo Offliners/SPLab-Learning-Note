@@ -20,8 +20,8 @@
 * [data_multivar_regr.txt](ML/data/data_multivar_regr.txt)
 
 ### Chapter 14 : Artificial Neural Networks
-### Deep Learning
-#### Keras
+## Deep Learning
+### Keras
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
 * [Multiclass-classification-IMDB.py](DL/Multiclass-classification-IMDB.py)
 
