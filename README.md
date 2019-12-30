@@ -4,7 +4,6 @@
 * [Chapter 11 : Probabilistic Reasoning for Sequential Data](Chapter11.md)
 * [Chapter 14 : Artificial Neural Networks](Chapter14.md)
 ### Deep Learning
-#### Keras
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
 * [Multiclass-classification-IMDB.py](DL/Multiclass-classification-IMDB.py)
 
