@@ -4,3 +4,4 @@
 
 ### Data
 * [data_perceptron.txt](ML/data/data_perceptron.txt)
+* [data_simple_nn.txt](ML/data/data_simple_nn.txt)
