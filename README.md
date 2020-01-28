@@ -11,6 +11,8 @@
 |Module|Version|
 |-|-|
 |Python-64-bits|`3.6.8`|
+|cidnn|`10.0`|
+|cuda|`7.3.1`|
 |Anaconda|`1.9.6`|
 |Matplotlib|`3.0.3`|
 |Numpy|`1.16.2`|
