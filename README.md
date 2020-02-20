@@ -6,6 +6,7 @@
 ### Deep Learning
 * [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
 * [Multiclass-classification-IMDB.py](DL/Multiclass-classification-IMDB.py)
+* [Regression-boston.py](DL/Regression-boston.py)
 
 ## Python Module Version
 |Module|Version|
