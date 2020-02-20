@@ -25,7 +25,7 @@
 |Keras|`2.2.4`|
 |Seaborn|`0.9.0`|
 |Pillow|`5.4.1`|
-|tensorflow-gpu|`1.14.0`|
+|tensorflow-gpu|`1.13.1`|
 |neurolab|`0.3.5`|
 
 ## IDE 
