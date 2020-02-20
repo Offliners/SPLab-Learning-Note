@@ -1,8 +1,8 @@
 # SPLab Learning Note
 ### Machine Learning
-* [Chapter 2 : Classification and Regression Using Supervised Learning](Chapter2.md)
-* [Chapter 11 : Probabilistic Reasoning for Sequential Data](Chapter11.md)
-* [Chapter 14 : Artificial Neural Networks](Chapter14.md)
+* [Chapter 2 : Classification and Regression Using Supervised Learning](ML/Chapter2.md)
+* [Chapter 11 : Probabilistic Reasoning for Sequential Data](ML/Chapter11.md)
+* [Chapter 14 : Artificial Neural Networks](ML/Chapter14.md)
 ### Deep Learning
 * [Basic Neural Network (MNIST)](DL/BasicNN-MNIST.py)
 * [Multiclass Classification (IMDB)](DL/Multiclass-classification-IMDB.py)
