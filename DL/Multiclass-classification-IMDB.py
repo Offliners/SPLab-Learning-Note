@@ -63,6 +63,7 @@ plt.ylabel('Accuracy')
 plt.legend()
 plt.show()
 
+print('###### Restart Train ######')
 model = models.Sequential()
 model.add(layers.Dense(16, activation='relu',input_shape=(10000,)))
 model.add(layers.Dense(16, activation='relu'))
@@ -72,7 +73,6 @@ model.compile(optimizer='rmsprop',
               loss='binary_crossentropy',
               metrics=['accuracy'])
 
-print('###### Restart Train ######')
 model.fit(x_train,
           y_train,
           epochs=4,
