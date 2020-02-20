@@ -4,10 +4,10 @@
 * [Chapter 11 : Probabilistic Reasoning for Sequential Data](Chapter11.md)
 * [Chapter 14 : Artificial Neural Networks](Chapter14.md)
 ### Deep Learning
-* [BasicNN-MNIST.py](DL/BasicNN-MNIST.py)
-* [Multiclass-classification-IMDB.py](DL/Multiclass-classification-IMDB.py)
-* [Single-label-multiclass-classification-Reuters.py](DL/Single-label-multiclass-classification-Reuters.py)
-* [Regression-boston.py](DL/Regression-Boston-housing.py)
+* [Basic Neural Network (MNIST)](DL/BasicNN-MNIST.py)
+* [Multiclass Classification (IMDB)](DL/Multiclass-classification-IMDB.py)
+* [Single Label Multiclass Classification (Reuters)](DL/Single-label-multiclass-classification-Reuters.py)
+* [Regression (Boston Housing)](DL/Regression-Boston-housing.py)
 
 ## Python Module Version
 |Module|Version|
