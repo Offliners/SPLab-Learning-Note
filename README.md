@@ -8,6 +8,7 @@
 * [Multiclass Classification (IMDB)](DL/Multiclass-classification-IMDB.py)
 * [Single Label Multiclass Classification (Reuters)](DL/Single-label-multiclass-classification-Reuters.py)
 * [Regression (Boston Housing)](DL/Regression-Boston-housing.py)
+* [Convolutional neural network (MNIST)](DL/Convolutional-neural-network-MNIST.py)
 
 ## Python Module Version
 |Module|Version|
