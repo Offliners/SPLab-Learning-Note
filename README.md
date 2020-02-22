@@ -33,9 +33,6 @@
  * Visual stdio code : https://code.visualstudio.com/download
  * Anaconda : https://www.anaconda.com/distribution/
 
-## Hardware
-GPU :  `GeForce GTX 1050`
-
 ## FAQ 
 * 1.How to download modules?
 
