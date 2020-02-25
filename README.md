@@ -11,6 +11,7 @@
 * [Convolutional neural network (MNIST)](DL/Convolutional-neural-network-MNIST.py)
 * [Convolutional neural network (Dogs vs Cats)](DL/Convolutional-neural-network-Dogs-vs-Cats.py)
 * [VGG 16 (Dogs vs Cats)](DL/VGG-16-Dogs-vs-Cats.py)
+* [One-hot encoding of word](DL/One-hot-encoding-of-word.py)
 
 ## Python Module Version
 |Module|Version|
