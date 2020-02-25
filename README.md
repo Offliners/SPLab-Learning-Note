@@ -10,6 +10,7 @@
 * [Regression (Boston Housing)](DL/Regression-Boston-housing.py)
 * [Convolutional neural network (MNIST)](DL/Convolutional-neural-network-MNIST.py)
 * [Convolutional neural network (Dogs vs Cats)](DL/Convolutional-neural-network-Dogs-vs-Cats.py)
+* [VGG 16 (Dogs vs Cats)](DL/VGG-16-Dogs-vs-Cats.py)
 
 ## Python Module Version
 |Module|Version|
