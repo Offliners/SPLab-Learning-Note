@@ -12,6 +12,7 @@
 * [Convolutional neural network (Dogs vs Cats)](DL/Convolutional-neural-network-Dogs-vs-Cats.py)
 * [VGG 16 (Dogs vs Cats)](DL/VGG-16-Dogs-vs-Cats.py)
 * [Simple one-hot encoding of word](DL/Simple-one-hot-encoding-of-word.py)
+* [Simple one-hot encoding of char](DL/Simple-one-hot-encoding-of-char.py)
 
 ## Python Module Version
 |Module|Version|
